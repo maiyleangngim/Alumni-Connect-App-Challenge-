@@ -2,7 +2,18 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+To push your code to this repo
+```
+git remote -v
 
+git pull origin main --allow-unrelated-histories
+
+git add .
+
+git commit -m " "
+
+git push -u origin main
+```
 First, run the development server:
 
 ```bash
